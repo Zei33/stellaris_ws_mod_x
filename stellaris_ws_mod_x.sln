@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stellaris_ws_mod_x", "stellaris_ws_mod_x\stellaris_ws_mod_x.csproj", "{C264FB1B-F4E3-4D06-93FC-3C8707FAE809}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C264FB1B-F4E3-4D06-93FC-3C8707FAE809}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C264FB1B-F4E3-4D06-93FC-3C8707FAE809}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C264FB1B-F4E3-4D06-93FC-3C8707FAE809}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C264FB1B-F4E3-4D06-93FC-3C8707FAE809}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A8BC4E1-BA32-453C-995E-01AD05F2E7D9}
+	EndGlobalSection
+EndGlobal
